@@ -1,0 +1,81 @@
+*{
+  text-align:center;
+  border-radius:3px;
+  
+  
+}
+body{
+  background-color:#d1e2ec;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+#img-div{
+  
+   background-color:#d1e2ec;
+  margin:50px auto;
+  padding-top:1px;
+  padding-bottom:40px;
+  padding-left:0px;
+  padding-right:0px;
+  max-width:60vw;
+  
+  align-self:center;
+
+}
+#title{
+   margin:50px auto 5px auto;
+ }
+#tribute-info{
+ max-width:60%;
+  margin: 0px auto ;
+}
+p{
+  font-size:1.2em;
+  text-align:left;
+ width:60vw;
+  text-align:justify;
+  
+}
+#title-p{
+   
+  margin: 0px auto ;
+   text-align:center;
+}
+a{
+  text-decoration:none;
+}
+blockquote{
+  font-style:italic;
+ 
+  text-align:left;
+  font-size:1.2em;
+  margin-top:90px;
+  margin-bottom:90px;
+}
+img{
+  max-width:100%;
+  display:block;
+  height:auto;
+  margin:0 auto;
+  box-shadow:0px 2px 15px 1px rgba(1,1,1,.25);
+  
+}
+#wiki-entry{
+  text-align:left;
+}
+@media (max-width:1800px){
+  #tribute-info{
+ max-width:75%;
+    margin: 0px auto ;}
+  p{
+  font-size:1.2em;
+  text-align:left;
+  width:75vw;
+ }
+  
+}
+#img-caption{
+  font-size:.8em;
+  padding:12px;
+  margin:2px;
+    
+}
